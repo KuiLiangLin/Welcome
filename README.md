@@ -5,7 +5,11 @@ Welcome to my GitHub
 </h1>
 
 <hr>
+<h3> Skill list : </h3>
+<ul><li>Language : Verilog, RTL, C++, C#, Matlab, Perl, R, Python</li></ul>
+<ul><li>Tool: Verdi, nLint, LEC, DCG, ECO, tramax, CDC,  Altium Design, H-SPICE, Altera Quartus, Ansoft HFSS</li></ul>
 
+<h3> Interesting project topic : </h3>
 <ul>
   <li>Verilog:
     <ul>
@@ -35,6 +39,6 @@ Welcome to my GitHub
 </ul>
 
 <hr>
-<p> END </p>
-<p> Codes are <em><a href="https://github.com/KuiLiangLin/Welcome/">Here</a></em>. </p>
-<p> You can return <em><a href="https://kuilianglin.github.io/Welcome/">My Main Page</a></em>. </P>
+<h3> END </h3>
+<ul><li> Codes are <em><a href="https://github.com/KuiLiangLin/Welcome/">Here</a></em>. </li></ul>
+<ul><li> You can return <em><a href="https://kuilianglin.github.io/Welcome/">My Main Page</a></em>. </li></ul>
