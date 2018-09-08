@@ -17,32 +17,32 @@ Welcome to my GitHub
 <ul>
   <li>Verilog:
     <ul>
-      <li><em><a href="https://kuilianglin.github.io/verilog_iverilog_sample/"> iverilog sample </a></em></li>
+      <li><em><a href="https://kuilianglin.github.io/verilog_iverilog_sample/"> Sample of iverilog </a></em></li>
     </ul>
     <ul>
-      <li><em><a href="https://kuilianglin.github.io/verilog_adaptive_filter_32_order/"> adaptive filter 32 order </a></em></li>
+      <li><em><a href="https://kuilianglin.github.io/verilog_adaptive_filter_32_order/"> Adaptive filter 32 order </a></em></li>
     </ul>
     <ul>
-      <li><em><a href="https://kuilianglin.github.io/verilog_dividend_divisor/"> dividend divisor </a></em></li>
+      <li><em><a href="https://kuilianglin.github.io/verilog_dividend_divisor/"> Dividend divisor </a></em></li>
     </ul>
     <ul>
-      <li><em><a href="https://kuilianglin.github.io/verilog_freq_div/"> freq div </a></em></li>
+      <li><em><a href="https://kuilianglin.github.io/verilog_freq_div/"> Frequenct divider </a></em></li>
     </ul>
     <ul>
       <li><em><a href="https://kuilianglin.github.io/verilog_FSM/"> FSM example </a></em></li>
     </ul>
     <ul>
-      <li><em><a href="https://kuilianglin.github.io/verilog_frog_game/"> frog game </a></em></li>
+      <li><em><a href="https://kuilianglin.github.io/verilog_frog_game/"> Frog game </a></em></li>
     </ul>
   </li>
   <li>Perl:
     <ul>
-      <li><em><a href="https://kuilianglin.github.io/perl_stock/"> perl for fetching stock</a></em></li>
+      <li><em><a href="https://kuilianglin.github.io/perl_stock/"> Perl for fetching stock</a></em></li>
     </ul>
   </li>
   <li>Python:
     <ul>
-      <li><em><a href="https://kuilianglin.github.io/python_stock/"> python for fetching stock</a></em></li>
+      <li><em><a href="https://kuilianglin.github.io/python_stock/"> Python for fetching stock</a></em></li>
     </ul>
   </li>
   <li>HSPICE:
@@ -55,6 +55,12 @@ Welcome to my GitHub
       <li><em><a href="https://kuilianglin.github.io/HFSS_dipole_antenna/"> HFSS dipole antenna</a></em></li>
     </ul>
   </li>
+</ul>
+
+<h3> Fork from other people : </h3>
+<ul>
+  <li><em><a href="https://github.com/KuiLiangLin/FLY_US/"> FLY US </a></em></li>
+  <li><em><a href="https://github.com/KuiLiangLin/think-in-java/"> Think in java </a></em></li>  
 </ul>
 
 <hr>
