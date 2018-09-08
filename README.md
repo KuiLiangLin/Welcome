@@ -6,8 +6,12 @@ Welcome to my GitHub
 
 <hr>
 <h3> Skill list : </h3>
-<ul><li>Language : Verilog, RTL, C++, C#, Matlab, Perl, R, Python</li></ul>
-<ul><li>Tool: Verdi, nLint, LEC, DCG, ECO, tramax, CDC,  Altium Design, H-SPICE, Altera Quartus, Ansoft HFSS</li></ul>
+<ul><li>Language : 
+  <ul>Verilog, RTL, C++, C#, Matlab, Perl, R, Python</ul>
+</li></ul>
+<ul><li>Tool : 
+  <ul>Verdi, nLint, LEC, DCG, ECO, tramax, CDC,  Altium Design, H-SPICE, Altera Quartus, Ansoft HFSS</ul>
+</li></ul>
 
 <h3> Interesting project topic : </h3>
 <ul>
