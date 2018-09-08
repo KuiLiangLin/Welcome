@@ -1,6 +1,6 @@
 
 <h1 id="Welcome to my GitHub" >
-<img src="https://raw.githubusercontent.com/KuiLiangLin/Welcome/master/profile_pic.jpg" height="5%" width="5%" >
+<img src="https://raw.githubusercontent.com/KuiLiangLin/Welcome/master/profile_pic.jpg" height="10%" width="10%" >
 Welcome to my GitHub
 </h1>
 
