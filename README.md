@@ -13,7 +13,7 @@ Welcome to my GitHub
   <ul>Verdi, nLint, LEC, DCG, ECO, tramax, CDC,  Altium Design, H-SPICE, Altera Quartus, Ansoft HFSS</ul>
 </li></ul>
 
-<h3> Interesting project topic : </h3>
+<h3> My interesting project topic : </h3>
 <ul>
   <li>Verilog:
     <ul>
@@ -57,7 +57,7 @@ Welcome to my GitHub
   </li>
 </ul>
 
-<h3> Fork from other people : </h3>
+<h3> Forking from other people : </h3>
 <ul>
   <li><em><a href="https://github.com/KuiLiangLin/FLY_US/"> FLY US </a></em></li>
   <li><em><a href="https://github.com/KuiLiangLin/think-in-java/"> Think in java </a></em></li>  
