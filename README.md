@@ -16,23 +16,12 @@ Welcome to my GitHub
 <h3> My interesting project topic : </h3>
 <ul>
   <li>Verilog:
-    <ul>
-      <li><em><a href="https://kuilianglin.github.io/verilog_iverilog_sample/"> Sample of iverilog </a></em></li>
-    </ul>
-    <ul>
-      <li><em><a href="https://kuilianglin.github.io/verilog_adaptive_filter_32_order/"> Adaptive filter 32 order </a></em></li>
-    </ul>
-    <ul>
-      <li><em><a href="https://kuilianglin.github.io/verilog_dividend_divisor/"> Dividend divisor </a></em></li>
-    </ul>
-    <ul>
-      <li><em><a href="https://kuilianglin.github.io/verilog_freq_div/"> Frequenct divider </a></em></li>
-    </ul>
-    <ul>
-      <li><em><a href="https://kuilianglin.github.io/verilog_FSM/"> FSM example </a></em></li>
-    </ul>
-    <ul>
-      <li><em><a href="https://kuilianglin.github.io/verilog_frog_game/"> Frog game </a></em></li>
+    <ul><li><em><a href="https://kuilianglin.github.io/verilog_iverilog_sample/"> Sample of iverilog </a></em></li>
+        <li><em><a href="https://kuilianglin.github.io/verilog_adaptive_filter_32_order/"> Adaptive filter 32 order </a></em></li>
+        <li><em><a href="https://kuilianglin.github.io/verilog_dividend_divisor/"> Dividend divisor </a></em></li>
+        <li><em><a href="https://kuilianglin.github.io/verilog_freq_div/"> Frequenct divider </a></em></li>
+        <li><em><a href="https://kuilianglin.github.io/verilog_FSM/"> FSM example </a></em></li>
+        <li><em><a href="https://kuilianglin.github.io/verilog_frog_game/"> Frog game </a></em></li>
     </ul>
   </li>
   <li>Perl:
