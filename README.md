@@ -19,7 +19,7 @@ Welcome to my GitHub
     <ul><li><em><a href="https://kuilianglin.github.io/verilog_iverilog_sample/"> Sample of iverilog </a></em></li>
         <li><em><a href="https://kuilianglin.github.io/verilog_adaptive_filter_32_order/"> Adaptive filter 32 order </a></em></li>
         <li><em><a href="https://kuilianglin.github.io/verilog_dividend_divisor/"> Dividend divisor </a></em></li>
-        <li><em><a href="https://kuilianglin.github.io/verilog_freq_div/"> Frequenct divider </a></em></li>
+        <li><em><a href="https://kuilianglin.github.io/verilog_freq_div/"> Frequency divider </a></em></li>
         <li><em><a href="https://kuilianglin.github.io/verilog_FSM/"> FSM example </a></em></li>
         <li><em><a href="https://kuilianglin.github.io/verilog_frog_game/"> Frog game </a></em></li>
     </ul>
