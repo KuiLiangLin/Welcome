@@ -24,6 +24,11 @@ Welcome to my GitHub
         <li><em><a href="https://kuilianglin.github.io/verilog_frog_game/"> Frog game </a></em></li>
     </ul>
   </li>
+  <li>HSPICE:
+    <ul>
+      <li><em><a href="https://kuilianglin.github.io/HSPICE_2order_opamp/"> HSPICE 2order opamp</a></em></li>
+    </ul>
+  </li>
   <li>Perl:
     <ul>
       <li><em><a href="https://kuilianglin.github.io/perl_stock/"> Perl for fetching stock</a></em></li>
@@ -34,9 +39,9 @@ Welcome to my GitHub
       <li><em><a href="https://kuilianglin.github.io/python_stock/"> Python for fetching stock</a></em></li>
     </ul>
   </li>
-  <li>HSPICE:
+  <li>R:
     <ul>
-      <li><em><a href="https://kuilianglin.github.io/HSPICE_2order_opamp/"> HSPICE 2order opamp</a></em></li>
+      <li><em><a href="https://kuilianglin.github.io/R_stock/"> R for fetching stock</a></em></li>
     </ul>
   </li>
   <li>HFSS:
