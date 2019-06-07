@@ -22,6 +22,7 @@ Welcome to my GitHub
         <li><em><a href="https://kuilianglin.github.io/verilog_freq_div/"> Frequency divider </a></em></li>
         <li><em><a href="https://kuilianglin.github.io/verilog_FSM/"> FSM example </a></em></li>
         <li><em><a href="https://kuilianglin.github.io/verilog_frog_game/"> Frog game </a></em></li>
+        <li><em><a href="https://kuilianglin.github.io/verilog_TS/"> temp. sensor </a></em></li>
     </ul>
   </li>
   <li>HSPICE:
